@@ -1,3 +1,3 @@
 <main id="app">
-querySelectorall
+querySelectorall()
 </main>
